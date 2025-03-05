@@ -1,4 +1,4 @@
-# Project-Personal-Website
+# My website
 
 Personal Websited created with HTML and CSS.
 
