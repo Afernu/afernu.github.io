@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Thomas Huy Nguyen</title>
+  <title>Cedric Martin Nel's Pierre</title>
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="images/letter-t.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
