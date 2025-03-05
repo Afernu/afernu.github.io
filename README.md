@@ -2,4 +2,4 @@
 
 Personal Websited created with HTML and CSS.
 
-[See Live Demo👈](https://latumat.github.io/Project-Personal-Website/)
+[See Live Demo👈](https://Afernu.github.io/my-site)
